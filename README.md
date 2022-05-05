@@ -1,6 +1,5 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Web APIs & NLP
+# Project 3: Web APIs & NLP
 
-# Project3 Summary
 
 I am currently a Data Analyst at Naver.com, Korea's #1 search engine. It is practically the Google of Korea. It consists of all matters of Korea from politics to entertainment shows, from movies to celebrity updates and from Kdrama to Kpop. it has always been my dream to work in the major search engine company ever since it became the search engine of Korea. 
 
